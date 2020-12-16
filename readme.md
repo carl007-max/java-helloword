@@ -82,8 +82,8 @@ public class App
 
 ```
 mvn clean
-mvn packpage
-或者 mvn clean packpage
+mvn package
+或者 mvn clean package
 ```
 
 ## 执行jar包
